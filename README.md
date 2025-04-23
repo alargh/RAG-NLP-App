@@ -1,4 +1,4 @@
-# ProvectusInternship_albertArnautov
+# RAG App
 
 ### Conda Environment Setup and Installation
 
